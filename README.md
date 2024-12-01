@@ -16,6 +16,7 @@ JapanDemographicsInsights is an ongoing project aimed at providing comprehensive
 
 ## Goals
 
+
 1. **Data Collection**: Import and structure demographic data from reputable sources such as government databases, census reports, and international organizations.
 2. **Trend Analysis**: Identify key trends such as aging population, birth rates, migration flows, and urbanization.
 3. **Interactive Dashboards**: Develop web-based or app-based dashboards for users to explore demographic data interactively.
