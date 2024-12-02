@@ -23,7 +23,6 @@ JapanDemographicsInsights is an ongoing project aimed at providing comprehensive
 5. **Open Source**: Make all project code, data, and visualizations available as open-source resources to encourage further development and research.
 
 ## Getting Started
-
 To run this project locally, follow these steps:
 
 1. Clone the repository:
